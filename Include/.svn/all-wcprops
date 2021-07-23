@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/5/trunk/Include
+END
+Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/5/trunk/Include/Config.h
+END
+Stroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/5/trunk/Include/Stroke.h
+END
+CanvasSoft.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5/trunk/Include/CanvasSoft.h
+END
+Window.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/5/trunk/Include/Window.h
+END
+NextLevelOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5/trunk/Include/NextLevelOverlay.h
+END
+Game.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/5/trunk/Include/Game.h
+END
+Canvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/5/trunk/Include/Canvas.h
+END
+Array.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5/trunk/Include/Array.h
+END
+PauseOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5/trunk/Include/PauseOverlay.h
+END
+Overlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/5/trunk/Include/Overlay.h
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5/trunk/Include/Image.h
+END
+EditOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5/trunk/Include/EditOverlay.h
+END
+Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/5/trunk/Include/Common.h
+END
+Levels.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/5/trunk/Include/Levels.h
+END
+Path.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/5/trunk/Include/Path.h
+END
+Scene.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5/trunk/Include/Scene.h
+END
+Pics.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/5/trunk/Include/Pics.h
+END
+SDL_Lite.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/5/trunk/Include/SDL_Lite.h
+END
+zipfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/5/trunk/Include/zipfile.h
+END
+Segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/5/trunk/Include/Segment.h
+END
